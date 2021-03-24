@@ -3,7 +3,7 @@ import React from 'react'
 const sdsdj = () => {
     return (
         <div>
-            ugtuytryuk
+            ugtuytry
         </div>
     )
 }
