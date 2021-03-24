@@ -1,0 +1,86 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    
+}
+
+.allBody{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    height: 400px;
+    width: 400px;
+    background:white;
+    box-sizing: border-box;
+    box-shadow: 5px 10px 8px #888888;
+    border-radius: 10px;
+    
+}
+.inpuT{
+    
+    padding: 10px 10px 10px 10px;
+    height: 20px;
+    width: 322px;
+    position: relative;
+    top: 40px;
+    left: 30px;
+    border-radius: 3px;
+    font-size:18px;
+    border: none;
+   
+   
+   
+   
+    
+}
+.btnLogin{
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    height: 43px;
+    width: 322px;
+    position: relative;
+    top: 60px;
+    left: 30px;
+    border-radius: 3px;
+    font-size:18px;
+    background:rgb(24, 119, 242)
+}
+a{
+    text-decoration: none;
+    text-align: center;
+}
+.forgotPass{
+    color: rgb(24, 119, 242);
+    position: relative;
+    top: 80px;
+    text-decoration: none;
+
+}
+hr{
+    position: relative;
+    left: 30px;
+    width: 412px;
+    top: 70px;
+}
+
+.newAccount{
+    position: relative;
+    left: 35%;
+    top: 150px;
+    padding: 10px 10px;
+    background: rgb(57, 184, 57);
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    width: 170px;
+    height: 50px;
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+
